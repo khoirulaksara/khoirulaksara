@@ -1,4 +1,4 @@
-![About Me](https://github.com/khoirulaksara/khoirulaksara/raw/master/bio.gif)
+![About Me](https://github.com/khoirulaksara/khoirulaksara/raw/master/ai.gif)
 
 <!--
 **khoirulaksara/khoirulaksara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
