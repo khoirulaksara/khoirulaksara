@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/khoirulaksara/khoirulaksara/raw/master/ai.gif" alt="Hai"/>
+  <img src="https://github.com/khoirulaksara/khoirulaksara/raw/master/mario-running.gif" alt="Hai"/>
 </p>
 
 <!--
