@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/khoirulaksara/khoirulaksara/raw/master/mario-running.gif" alt="Hai"/>
+![Khoirulaksara's Stats](https://github-readme-stats.vercel.app/api?username=Khoirulaksara&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Khoirulaksara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khoirulaksara&theme=vue-dark&hide_border=true)![Khoirulaksara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khoirulaksara&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 <!--
