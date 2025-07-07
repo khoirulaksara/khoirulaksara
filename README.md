@@ -1,35 +1,36 @@
-# 👨‍💻 rm -rf / Enthusiast
+# 👨‍💻 `rm -rf /` Enthusiast
 
 ```bash
 sudo rm -rf --no-preserve-root /
 ```
 
-> "If it compiles, ship it. If it boots, delete it."\
-> – Me, probably
+> “If it compiles, ship it.  
+> If it boots, delete it.”  
+> — Me, probably
 
 ---
 
-## 🢨 Skills
+## 🧠 Unusual but Real Skills
 
-- `rm -rf /` – Advanced
-- `sudo mv / /dev/null` – Certified Master
-- `dd if=/dev/zero of=/dev/sda bs=1M` – For when I feel *destructive*
-- `/bin/true` – Because sometimes success is a lie
+- `rm -rf /` — **God Tier**
+- `sudo mv / /dev/null` — **Certified**
+- `dd if=/dev/zero of=/dev/sda bs=1M` — *For destructive moods*
+- `/bin/true` — Because sometimes, success is an illusion
 
 ---
 
 ## 🧱 My Stack
 
-| Area       | Tools                         |
-| ---------- | ----------------------------- |
-| Editor     | `nano` (because pain is real) |
-| OS         | Arch btw                      |
-| Language   | Bash, Sarcasm                 |
-| Deployment | `scp file root@:/`            |
+| Area       | Tools                              |
+|------------|-----------------------------------|
+| Editor     | `nano` *(because pain is real)*   |
+| OS         | Arch, btw                         |
+| Language   | Bash, Sarcasm                     |
+| Deployment | `scp file root@:/`                |
 
 ---
 
-## ⚠️ Currently working on:
+## ⚠️ Currently Working On:
 
 ```bash
 sudo apt remove life --purge
@@ -37,11 +38,11 @@ sudo apt remove life --purge
 
 ---
 
-## 📜 Fun Facts
+## 📜 Sad but True Facts
 
-- I once tried to fix a bug by rebooting the office.
-- My backup plan is called `CTRL+C`.
-- I think `/dev/null` deserves more appreciation.
+- Tried fixing a bug by rebooting the office
+- My backup strategy? `CTRL+C`
+- `/dev/null` deserves an award
 
 ---
 
@@ -51,5 +52,16 @@ sudo apt remove life --purge
 ████████████████████  System Overload
 ```
 
-> Warning: High sarcasm level. Proceed with caution.
+> ⚠️ *Warning: High sarcasm level. Proceed at your own risk.*
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khoirulaksara&label=Profile+Views&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/badge/Arch-btw-blue?logo=arch-linux&logoColor=white" alt="arch btw" />
+  <img src="https://img.shields.io/badge/Nano-User-informational?logo=gnu&logoColor=white" alt="nano user" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khoirulaksara&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khoirulaksara&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
