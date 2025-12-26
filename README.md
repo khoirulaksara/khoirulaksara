@@ -61,7 +61,8 @@ sudo apt remove life --purge
   <img src="https://img.shields.io/badge/Arch-btw-blue?logo=arch-linux&logoColor=white" alt="arch btw" />
   <img src="https://img.shields.io/badge/Nano-User-informational?logo=gnu&logoColor=white" alt="nano user" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=khoirulaksara&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=khoirulaksara&show_icons=true&theme=radical" alt="stats" />
+  <!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=supreme-gg-gg&show_icons=true&theme=radical) -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khoirulaksara&theme=tokyonight&hide_border=true" alt="streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=khoirulaksara&theme=tokyonight&hide_border=true" alt="streak" /> -->
 </p>
